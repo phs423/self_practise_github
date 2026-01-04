@@ -1,12 +1,31 @@
-.apply{
-    color: crimson;
-    background-color: cornsilk;
+body{
+    background-color: whitesmoke;
+}
+header{
+    background-color:coral;
+    color:white;
+    text-align: center;
+    border-radius: 7px;
+    margin: 15px;
+    box-shadow: 0px 0px 8px 2px black;
+    padding: 1px;
+}
+div{
+    background-color: white;
     margin: 15px;
     padding: 15px;
-    border: 5px;
-    border-color: coral;
-    box-shadow: 5px 5px 5px 3px;
+    box-shadow: 0px 0px 5px 2px coral;
+    border-radius: 7px;
+}
+footer{
+    background-color: coral;
     text-align: center;
-    width: 50%;
-    
+    color:white;
+    border-radius: 7px;
+    margin: 15px;
+    box-shadow: 0px 0px 6px 2px black;
+    padding: 1px;
+}
+span{
+    color: coral;
 }
